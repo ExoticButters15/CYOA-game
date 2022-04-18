@@ -1,0 +1,15 @@
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/bin/Debug/net5.0/dle_StockholdSyndrome.deps.json
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/bin/Debug/net5.0/dle_StockholdSyndrome.runtimeconfig.json
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/bin/Debug/net5.0/dle_StockholdSyndrome.runtimeconfig.dev.json
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/bin/Debug/net5.0/dle_StockholdSyndrome.dll
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/bin/Debug/net5.0/ref/dle_StockholdSyndrome.dll
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/bin/Debug/net5.0/dle_StockholdSyndrome.pdb
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/obj/Debug/net5.0/dle_StockholdSyndrome.csproj.AssemblyReference.cache
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/obj/Debug/net5.0/dle_StockholdSyndrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/obj/Debug/net5.0/dle_StockholdSyndrome.AssemblyInfoInputs.cache
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/obj/Debug/net5.0/dle_StockholdSyndrome.AssemblyInfo.cs
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/obj/Debug/net5.0/dle_StockholdSyndrome.csproj.CoreCompileInputs.cache
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/obj/Debug/net5.0/dle_StockholdSyndrome.dll
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/obj/Debug/net5.0/ref/dle_StockholdSyndrome.dll
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/obj/Debug/net5.0/dle_StockholdSyndrome.pdb
+/Users/dylan1/Projects/dle_StockholdSyndrome/dle_StockholdSyndrome/obj/Debug/net5.0/dle_StockholdSyndrome.genruntimeconfig.cache

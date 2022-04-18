@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "dle_StockholdSyndrome/1.0.0": {
+        "runtime": {
+          "dle_StockholdSyndrome.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dle_StockholdSyndrome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
